@@ -46,8 +46,8 @@ git clone https://github.com/codewithsadee/filmlane.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Discord](https://discord.gg/floater-hq-1066657049313816606).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** but mention me as developer *{Credits to SkidGOd is Must}*.
