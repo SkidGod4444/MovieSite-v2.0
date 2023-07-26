@@ -35,13 +35,13 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/SkidGod4444/MovieSite-v2.0.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/SkidGod4444/MovieSite-v2.0.git
 ```
 
 ### Contact
