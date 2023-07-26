@@ -273,7 +273,7 @@ Privacy
 <ion-icon name="logo-pinterest"></ion-icon>
 <ion-icon name="logo-linkedin"></ion-icon>
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2022 SkidGod4444 All Rights Reserved
 
 alt = Online banking companies logo
 
