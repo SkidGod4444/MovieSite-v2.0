@@ -50,4 +50,4 @@ If you want to contact with me you can reach me at [Discord](https://discord.gg/
 
 ### License
 
-This project is **free to use** but mention me as developer *{Credits to SkidGOd is Must}*.
+This project is **free to use** but mention me as developer **[Credits to SkidGOd is Must]**.
